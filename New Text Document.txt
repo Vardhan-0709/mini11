@@ -1,0 +1,5 @@
+.
+├── app.py
+├── requirements.txt
+├── uploads/        # Folder for uploaded images and output files
+└── static/         # Folder to serve static files (e.g., generated views)
